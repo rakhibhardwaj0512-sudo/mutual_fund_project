@@ -6,4 +6,4 @@ sqlalchemy
 requests
 scipy
 jupyter
-scikit-learn
+scikit-learngit
